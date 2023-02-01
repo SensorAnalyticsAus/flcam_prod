@@ -27,4 +27,4 @@ Edit the `flcam_config.py` file according to your configuration
 
 `./flcam_prod.py`
 
-Then open `http://flcam_prod_host_computers_ip:8989` to view camera's live stream.
+Then opening `http://flcam_prod_host_computers_ip:8989` to view camera's live stream.
