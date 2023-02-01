@@ -1,6 +1,6 @@
 import os
 
-urlx = 0 # camid 0 or '' quoted RTSP url
+urlx = 0 # camid 0 for 1st cam 
 flip = 0   # Flip camera images: 1
 portnum = 8989
 # rtsp_flag are set below.
