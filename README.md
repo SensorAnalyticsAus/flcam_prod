@@ -5,7 +5,7 @@ Python code for live streaming PiCam or any plug-and-play usb webcam on the Inte
 
 ### Prerequisites
 * raspberry pi zero w or better
-* PiCam or webcam
+* picam or webcam
 * python 3
 
 
