@@ -18,7 +18,7 @@ pip install waitress
 
 ```
 
-### flcam_config
+### Settings
 
 Edit the `flcam_config.py` file according to your configuration
 
