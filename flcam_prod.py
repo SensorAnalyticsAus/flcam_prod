@@ -9,7 +9,7 @@ app = Flask('FLCAM_PROD_SRV')
 
 camera = cv2.VideoCapture(urlx)  
 if camera is None or not camera.isOpened():
-    print('Unable to open video source: ',rtsp_url)
+    print('Unable to open video source: ',urlx)
     sys.exit("Video source failed to open...exiting") 
 
 def gen_frames():  
