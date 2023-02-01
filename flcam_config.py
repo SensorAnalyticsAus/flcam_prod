@@ -1,7 +1,7 @@
 import os
 
 urlx = 0 # camid 0 or '' quoted RTSP url
-flip = 1   # Flip camera images: 1
+flip = 0   # Flip camera images: 1
 portnum = 8989
 # rtsp_flag are set below.
 os.environ["OPENCV_FFMPEG_CAPTURE_OPTIONS"]="rtsp_transport;tcp\
