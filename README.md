@@ -9,7 +9,7 @@ Python code for live streaming PiCam or any plug-and-play usb webcam on the Inte
 * python 3
 
 
-Install (or upgrade those already installed).
+Install (or upgrade ones already installed).
 ```
 pip install numpy
 pip install opencv-python 
