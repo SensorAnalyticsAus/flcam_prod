@@ -1,5 +1,5 @@
 # FlCam
-Python code for Live streaming PiCam or any plug-and-play usb webcam on the Internet. IP camera with RTSP can be live streamed without exposing camera's username and password or requiring any 3rd party viewers e.g. VLC.
+Python code for live streaming PiCam or any plug-and-play usb webcam on the Internet. IP camera with RTSP can be live streamed without exposing camera's username and password or requiring any 3rd party viewers e.g. VLC.
 
 ## Getting Started
 
